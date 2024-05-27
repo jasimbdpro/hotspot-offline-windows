@@ -1,2 +1,2 @@
 Run the batch file in Administrator Mode in windows laptop, To share your internet, enable Internet Connection Sharing (ICS): Right-click your main internet adapter (e.g., Ethernet or Wi-Fi), select Properties, go to the Sharing tab, check Allow other network users to connect through this computer's Internet connection, and select the hosted network adapter (e.g., "Local Area Connection* X") from the dropdown.
-The script can create hotspot connection without requiring internet.
+The script can create hotspot connection without requiring internet. Hotspot Name (SSID) and Password (Key) in given in the batch file (if you view it through any text viewer/editor)
